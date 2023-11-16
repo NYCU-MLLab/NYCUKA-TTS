@@ -1,0 +1,8 @@
+espnet: '202211'
+files:
+  model_file: exp/tts_finetune_fastpeech2_g2pw/train.loss.ave_5best.pth
+python: "3.8.15 (default, Nov 24 2022, 15:19:38) \n[GCC 11.2.0]"
+timestamp: 1674624833.444729
+torch: 1.10.1
+yaml_files:
+  train_config: exp/tts_finetune_fastpeech2_g2pw/config.yaml
